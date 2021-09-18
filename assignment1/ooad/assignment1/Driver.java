@@ -14,6 +14,6 @@ public class Driver {
 		heap.add(99);
 		heap.add(95);
 		heap.add(50);
-		System.out.println(heap.peek());
+		System.out.println(heap.getOddNumbersInPreOrder());
 	}
 }
